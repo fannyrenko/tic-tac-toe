@@ -21,3 +21,6 @@ This is a simple implementation of the classic Tic-Tac-Toe game using the Pygame
 
   - Python 3.x
   - Pygame library (Install using pip install pygame)
+
+
+![alt text](tic-tac-toe.png)
